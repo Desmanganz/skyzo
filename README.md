@@ -2,7 +2,7 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
+$ git clone https://github.com/Desmanganz/skyzo.git<br>
 $ cd zkyzo <br>
 $ pip2 install -r zona.zkyzo<br>
 $ python2 skyzo.py <br>
